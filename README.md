@@ -28,7 +28,7 @@ Why should we care about the theoretical aspects of Large Language Models (LLMs)
 
 ### Tightness
 
-In the context of language models, "tightness" refers to the property of not leaking probability mass into the space of infinite strings. Simply put, we don't want a language model to generate tokens indefinitely. A tight language model is one that doesn’t continue generating tokens forever.
+In the context of language models, "tightness" refers to the property of not leaking probability mass into the space of infinite strings. Simply put, we don't want a language model to generate tokens indefinitely. A tight language model is one that doesn’t continue generating tokens forever when you sample from it.
 
 
 
