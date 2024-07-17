@@ -24,10 +24,14 @@
 
 ## Probabilistic Foundation
 
+Why should we care about the theoretical aspects of Large Language Models (LLMs)? Sure, you could just code a language model to complete some tasks without knowing much about the theory. I could tell you to put some neurons here, some activations there, but can you truly understand the object you've created? If you don't grasp the mathematical foundation, how can you be confident it will work as intended on a large scale? This section is for those who want to go **beyond** just using LLMs and seek to understand them.
+
 ### Tightness
 
-**Concept:**
-Understanding the tightness in probabilistic models is crucial for defining a language model. This involves basic measure theory and its applications in language models.
+In the context of language models, "tightness" refers to the property of not leaking probability mass into the space of infinite strings. Simply put, we don't want a language model to generate tokens indefinitely. A tight language model is one that doesn’t continue generating tokens forever.
+
+
+
 
 
 ---
