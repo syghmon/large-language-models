@@ -64,9 +64,8 @@ Transformers have revolutionized NLP by addressing the limitations of RNNs. They
 
 ## Training and Fine-Tuning
 
-### Transfer Learning
 
-**Concept:**
+### Transfer Learning
 Transfer learning allows models to leverage pre-trained knowledge for specific tasks, reducing the amount of data and time required for training.
 
 
@@ -74,19 +73,33 @@ Transfer learning allows models to leverage pre-trained knowledge for specific t
 
 ### Parameter Efficient Fine-Tuning
 
-**Concept:**
 Fine-tuning pre-trained models efficiently is crucial for practical applications. Techniques like LoRA enable efficient fine-tuning.
 
 
 ---
 
-## Applications
 
 ### In-context Learning and Prompting
 
-**Concept:**
 In-context learning and prompting are powerful techniques for leveraging LLMs. They enable models to perform tasks with minimal task-specific training.
 
+
+---
+
+### Applications and Tasks
+
+---
+
+### Retrieval Augmented Generation
+
+---
+
+### Alignment with Human Preferences
+
+
+---
+
+### Calibration
 
 ---
 
