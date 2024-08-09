@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-## Foundations
+## Foundation
 
 ## Use
 
-## Effects
+## Effect
